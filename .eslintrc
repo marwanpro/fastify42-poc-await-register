@@ -1,0 +1,6 @@
+{
+    "extends": "eslint-config-automne",
+    "rules": {
+        "no-console": "off"
+    }
+}
